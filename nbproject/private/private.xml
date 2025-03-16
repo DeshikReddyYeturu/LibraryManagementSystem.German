@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/HibernateUtil.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/Entity/Book.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/issuebook_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/mainmenu_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/DAO/IssuedBookDAO.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/signup_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/login_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/addstudent_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/SignUpPage.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/addbook_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/ReturnBook.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/DAO/ReturnedBookDAO.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/AddBook.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/Entity/Student.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/MainMenu.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/ViewBooks.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/viewbooks_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/IssueBook.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/Entity/Admin.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/StudentList.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/AddStudent.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/DAO/AdminDAO.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/hibernate.cfg.xml</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/DAO/StudentDAO.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/viewstudents_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/Entity/ReturnedBook.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/returnbook_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/DAO/BookDAO.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/studentlist_de_DE.properties</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/Entity/IssuedBook.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/ViewStudents.java</file>
+            <file>file:/C:/NetBeans/LibraryManagement/src/librarymanagement/LoginPage.java</file>
+        </group>
+    </open-files>
+</project-private>
